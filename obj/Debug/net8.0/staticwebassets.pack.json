@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Chasty\\Downloads\\SuperFreshAPI\\wwwroot\\images\\251645f3-bdab-46bd-b73c-5e7ad9dc4b7e_zanahoria.jpg",
+      "PackagePath": "staticwebassets\\images\\251645f3-bdab-46bd-b73c-5e7ad9dc4b7e_zanahoria.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chasty\\Downloads\\SuperFreshAPI\\wwwroot\\images\\4087bda6-6899-474a-bcee-283b4b4e0c79_papa.jpg",
+      "PackagePath": "staticwebassets\\images\\4087bda6-6899-474a-bcee-283b4b4e0c79_papa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chasty\\Downloads\\SuperFreshAPI\\wwwroot\\images\\43d1c64c-ac80-43af-920e-c8c5e10e6fd8_zanahoria.jpg",
+      "PackagePath": "staticwebassets\\images\\43d1c64c-ac80-43af-920e-c8c5e10e6fd8_zanahoria.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chasty\\Downloads\\SuperFreshAPI\\wwwroot\\images\\Espinaca.jpg",
+      "PackagePath": "staticwebassets\\images\\Espinaca.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SuperFreshAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SuperFreshAPI.props",
+      "PackagePath": "build\\SuperFreshAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SuperFreshAPI.props",
+      "PackagePath": "buildMultiTargeting\\SuperFreshAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SuperFreshAPI.props",
+      "PackagePath": "buildTransitive\\SuperFreshAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
